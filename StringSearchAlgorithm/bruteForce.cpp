@@ -17,7 +17,7 @@ int brute_force_search(string pat, string txt)
 
 int main() {
 	string txt = "ABACADABRAC";
-	string pat = "ADACR";
+	string pat = "ABR";
 	int a = brute_force_search(pat, txt);
 	return 0;
 }
