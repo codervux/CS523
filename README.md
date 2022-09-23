@@ -1,7 +1,7 @@
 # CS523 - Cấu Trúc Dữ Liệu và Giải Thuật Nâng Cao
 Sử dụng C++ để chạy thuật toán trong folder StringSearchAlgorithm
 
-BTVN nộp bằng file gì cũng được
+BTVN nộp bằng file gì cũng được, Thời hạn: 5:00 AM  - 29/9/2022
 
 Nạp bài tập về nhà tại: https://docs.google.com/forms/d/e/1FAIpQLSfLYrbguUPPnTabR7g7Ok05mVsSqrpb9SbD7lMJYez6NxDt9g/viewform?usp=sharing
 
