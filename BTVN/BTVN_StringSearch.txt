@@ -1,0 +1,6 @@
+Câu 1: Tìm mảng tạm lưu các cặp prefix, suffix của các  pattern sau: (ghi kết quả là được)
+aaaabaacd
+bceebcadee
+
+Câu 2: Phát biểu ngắn gọn cách bạn hiểu về thuật toán này (thuật toán sử dụng cái gì? sử dụng như thế nào? các bước giải thuật).
+câu hỏi 2 này là để trao đổi, thảo luận - không tính điểm. 
