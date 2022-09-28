@@ -1,8 +1,9 @@
 Yêu cầu: Làm hết cả 2 câu. 
 
-Câu 1: Tìm mảng tạm lưu các cặp prefix, suffix của các  pattern sau: (ghi kết quả là được)
-aaaabaacd
-bceebcadee
+Câu 1: Tìm mảng tạm lưu các cặp prefix, suffix của 2  pattern sau: (ghi kết quả là được)
+vd: aaba - 0101
+1. aaaabaacd
+2. bceebcadee
 
 Câu 2: Phát biểu ngắn gọn cách bạn hiểu về thuật toán KMP (thuật toán sử dụng cái gì? sử dụng như thế nào? các bước giải thuật).
 Note: câu hỏi 2 này là để trao đổi, thảo luận - không tính điểm. 
